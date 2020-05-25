@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "46a0ad79-c6cb-45d6-b092-79e3d001b00e",
+            "Value": {
+                "id": "8f534d44-9271-440b-aa20-79a37875a581",
+                "resourcePath": "datafiles_yy\\Licenses\\OpenSans_License.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "4baaac58-949c-4214-805c-86f33c8deb20",
             "Value": {
                 "id": "36b19fb1-787c-4aac-8b94-353700fb267c",
@@ -100,6 +108,14 @@
                 "id": "479057af-2ca3-4bb5-9a27-4ce4d5a747ea",
                 "resourcePath": "views\\5696620a-cde0-4310-8760-bfeb50c3f82f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e067c98-18b6-4d33-ac1c-de62b5781bb6",
+            "Value": {
+                "id": "f0174740-985a-431f-b7a0-3a4651a5ab1b",
+                "resourcePath": "fonts\\OpenSans40\\OpenSans40.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -268,6 +284,14 @@
                 "id": "fcf73553-131d-40e3-bff1-fb6304c00a02",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f97b63de-0f1a-4a80-b9cd-f08a0ee8e122",
+            "Value": {
+                "id": "73590805-8ccd-4784-9f24-6d7a6a9577dc",
+                "resourcePath": "views\\f97b63de-0f1a-4a80-b9cd-f08a0ee8e122.yy",
+                "resourceType": "GMFolder"
             }
         }
     ],
