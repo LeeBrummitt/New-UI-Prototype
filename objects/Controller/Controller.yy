@@ -1,14 +1,14 @@
 {
-    "id": "16dc7e7b-f91b-4598-9560-9ca83b1ff41b",
+    "id": "d7cd9b77-e7c9-43f6-a483-3c690cbd0732",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "menuTextBox",
+    "name": "Controller",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "4baaac58-949c-4214-805c-86f33c8deb20",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
