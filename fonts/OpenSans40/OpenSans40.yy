@@ -2,7 +2,7 @@
     "id": "5e067c98-18b6-4d33-ac1c-de62b5781bb6",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "OpenSans40",
+    "name": "openSans40",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,

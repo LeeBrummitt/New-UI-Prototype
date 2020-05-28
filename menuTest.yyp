@@ -114,7 +114,7 @@
             "Key": "5e067c98-18b6-4d33-ac1c-de62b5781bb6",
             "Value": {
                 "id": "f0174740-985a-431f-b7a0-3a4651a5ab1b",
-                "resourcePath": "fonts\\OpenSans40\\OpenSans40.yy",
+                "resourcePath": "fonts\\openSans40\\openSans40.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -242,7 +242,7 @@
             "Key": "d7cd9b77-e7c9-43f6-a483-3c690cbd0732",
             "Value": {
                 "id": "7f910f74-8cd0-4baa-a4ac-017c4f0d6047",
-                "resourcePath": "objects\\Controller\\Controller.yy",
+                "resourcePath": "objects\\controller\\controller.yy",
                 "resourceType": "GMObject"
             }
         },
