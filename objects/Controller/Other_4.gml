@@ -9,3 +9,8 @@ draw_set_font(openSans40);
 if(!variable_global_exists("cooldownTime")){
 	global.cooldownTime = 10;
 }
+
+//set key cooldown
+if(!variable_global_exists("keyCooldown")){
+	global.keyCooldown = global.cooldownTime;
+}

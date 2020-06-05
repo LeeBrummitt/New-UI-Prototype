@@ -1,14 +1,14 @@
 {
-    "id": "4baaac58-949c-4214-805c-86f33c8deb20",
+    "id": "53668363-a526-44eb-82e9-d5f199691e0c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "menuComponent",
+    "name": "contextMenu",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "9c08f507-88bf-4e2d-a074-bb5f47e17ee1",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
