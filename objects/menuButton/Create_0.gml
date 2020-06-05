@@ -5,8 +5,12 @@
 event_inherited();
 
 left = 0;
-right = 100;
+right = 150;
 top = 0;
-bottom = 100;
+bottom = 50;
 
 active = false;
+
+color1 = c_dkgray;
+color2 = c_ltgray;
+currentColor = color1;

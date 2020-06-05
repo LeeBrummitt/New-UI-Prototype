@@ -26,6 +26,7 @@ depth = 0;
 for(var i = 0; i < instance_number(genericMenu); i++){
 	var myObj = instance_find(genericMenu, i);
 	if(myObj != id){
-		myObj.depth = myObj.depth + 1;
+		// increase by 5 so you have extra space for text and buttons
+		myObj.depth = myObj.depth + 5;
 	}
 }
