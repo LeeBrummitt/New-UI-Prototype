@@ -9,6 +9,7 @@ if(active == true){
 if(device_mouse_x_to_gui(0) >= left && device_mouse_x_to_gui(0) <= right
 && device_mouse_y_to_gui(0) >= top && device_mouse_y_to_gui(0) <= bottom){
 	currentColor = color2;
+	frame = 1;
 	
 	// check if the mouse button is being pressed
 	if (device_mouse_check_button_released(0, mb_left)){
@@ -17,4 +18,5 @@ if(device_mouse_x_to_gui(0) >= left && device_mouse_x_to_gui(0) <= right
 	}
 }else{
 	currentColor = color1;
+	frame = 0;
 }

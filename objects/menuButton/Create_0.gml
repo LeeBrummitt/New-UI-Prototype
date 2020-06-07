@@ -14,3 +14,6 @@ active = false;
 color1 = c_dkgray;
 color2 = c_ltgray;
 currentColor = color1;
+
+image = undefined;
+frame = 0;

@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "7456eb5f-dd0f-4061-9475-1315e2454d83",
+            "Value": {
+                "id": "ded74a47-033f-4e00-962a-a87954075242",
+                "resourcePath": "sprites\\mainMenuButton\\mainMenuButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74f34391-f1a0-4f85-8867-f1cfcc2d926d",
             "Value": {
                 "id": "2aa16d51-5bd0-4359-a336-9cb0d8dc9299",
@@ -212,6 +220,14 @@
                 "id": "967be7de-5111-4669-aa10-24098839e2dd",
                 "resourcePath": "views\\8c6aeb29-4504-4e4c-8752-45fcf56ca904.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e4b4432-9bcc-4b83-bd0d-1529ac592697",
+            "Value": {
+                "id": "ae9db531-55a1-4f2c-8324-ede9f069c9e0",
+                "resourcePath": "sprites\\mainMenuImage\\mainMenuImage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

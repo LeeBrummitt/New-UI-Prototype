@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description check if actions need to be preformed and preform them if necessary
 
 if(newGameButton.active = true){
 	show_debug_message("new game cool");
