@@ -17,3 +17,7 @@ currentColor = color1;
 
 image = undefined;
 frame = 0;
+
+largestSize = min(display_get_gui_height(), display_get_gui_width());
+label = "";
+labelScale = 1;

@@ -11,6 +11,9 @@ newGameButton.bottom  = top + ((6 * (bottom - top))/20);
 newGameButton.left  = left + ((2 * (right - left))/20);
 newGameButton.right  = right - ((2 * (right - left))/20);
 newGameButton.image = mainMenuButton;
+newGameButton.label = "New Game";
+newGameButton.labelScale = .001;
+
 
 loadGameButton = instance_create_depth(0, 0, 0, menuButton);
 loadGameButton.parent = id;
